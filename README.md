@@ -1,35 +1,95 @@
 # ⚡ LeetCode Solutions
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+A collection of my LeetCode solutions focused on mastering **Data Structures & Algorithms**, improving problem-solving skills, and preparing for technical interviews.
+
+<p align="left">
+  <a href="https://leetcode.com/u/DGOsPiIh5O/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Profile" /></a>
   <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Profile-muskanji1007--lang-blue?style=for-the-badge&logo=github" alt="GitHub" />
+  <a href="https://github.com/muskanji1007-lang"><img src="https://img.shields.io/badge/GitHub-muskanji1007--lang-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-A collection of my **LeetCode** solutions written in **C++**, focused on mastering **Data Structures & Algorithms (DSA)**, problem-solving techniques, and writing clean, optimal code.
+---
 
-👤 **LeetCode Profile:** [@DGOsPiIh5O](https://leetcode.com/u/DGOsPiIh5O/)  
-📂 **GitHub Repository:** [LeetCode-Solutions](https://github.com/muskanji1007-lang/LeetCode-Solutions)
+## 🚀 About
+
+This repository contains my daily solutions to LeetCode problems solved in **C++**. 
+
+The main goals are:
+- Strengthen core Data Structures & Algorithms concepts.
+- Improve problem-solving and logical thinking.
+- Learn optimal time and space complexity approaches.
+- Maintain consistent daily coding habits.
 
 ---
 
-## 📊 Solved Problems Overview
+## 📚 Topics Covered
 
-| # | Problem Name | Difficulty | Category / Topic | Solution |
-|---|--------------|------------|------------------|----------|
-| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array, Hash Table | [C++](./0001-two-sum/0001-two-sum.cpp) |
-| 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Medium | Math | [C++](./0007-reverse-integer/0007-reverse-integer.cpp) |
-| 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | Math | [C++](./0009-palindrome-number/0009-palindrome-number.cpp) |
-| 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | Hash Table, Math, String | [C++](./0013-roman-to-integer/0013-roman-to-integer.cpp) |
-| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | Array, Prefix Sum | [C++](./1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.cpp) |
-| 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | Easy | Math, Bit Manipulation | [C++](./1486-xor-operation-in-an-array/1486-xor-operation-in-an-array.cpp) |
-| 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | Easy | Array, Matrix | [C++](./1672-richest-customer-wealth/1672-richest-customer-wealth.cpp) |
-| 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Easy | Array, Simulation | [C++](./1929-concatenation-of-array/1929-concatenation-of-array.cpp) |
+- 🔹 Arrays & Matrices
+- 🔹 Hash Tables & Maps
+- 🔹 Mathematical Algorithms
+- 🔹 Bit Manipulation
+- 🔹 Prefix Sum
+- 🔹 Two Pointers & Sliding Window
+- 🔹 Strings
 
 ---
 
-## 🎯 Goals
+## 🗂️ Repository Structure
 
-- Solve daily LeetCode problems consistently.
-- Master time and space complexity optimization.
-- Build a solid foundation for tech interviews.
+```text
+LeetCode-Solutions/
+│
+├── 0001-two-sum/
+│   ├── 0001-two-sum.cpp
+│   └── README.md
+│
+├── 0007-reverse-integer/
+├── 0009-palindrome-number/
+├── 0013-roman-to-integer/
+├── 1480-running-sum-of-1d-array/
+├── 1486-xor-operation-in-an-array/
+├── 1672-richest-customer-wealth/
+├── 1929-concatenation-of-array/
+│
+└── README.md
+```
+
+---
+
+# 📂 LeetCode Topics
+
+## 📌 Array
+| Problem Name | Difficulty |
+| :--- | :---: |
+| [0001-two-sum](0001-two-sum) | Easy |
+| [1480-running-sum-of-1d-array](1480-running-sum-of-1d-array) | Easy |
+| [1672-richest-customer-wealth](1672-richest-customer-wealth) | Easy |
+| [1929-concatenation-of-array](1929-concatenation-of-array) | Easy |
+
+## 📌 Math
+| Problem Name | Difficulty |
+| :--- | :---: |
+| [0007-reverse-integer](0007-reverse-integer) | Medium |
+| [0009-palindrome-number](0009-palindrome-number) | Easy |
+| [0013-roman-to-integer](0013-roman-to-integer) | Easy |
+| [1486-xor-operation-in-an-array](1486-xor-operation-in-an-array) | Easy |
+
+## 📌 Hash Table
+| Problem Name | Difficulty |
+| :--- | :---: |
+| [0001-two-sum](0001-two-sum) | Easy |
+| [0013-roman-to-integer](0013-roman-to-integer) | Easy |
+
+## 📌 Bit Manipulation
+| Problem Name | Difficulty |
+| :--- | :---: |
+| [1486-xor-operation-in-an-array](1486-xor-operation-in-an-array) | Easy |
+
+## 📌 Prefix Sum
+| Problem Name | Difficulty |
+| :--- | :---: |
+| [1480-running-sum-of-1d-array](1480-running-sum-of-1d-array) | Easy |
+
+---
+
+<p align="center">Made with ❤️ by <a href="https://github.com/muskanji1007-lang">Muskan</a> • Keep Coding!</p>
