@@ -93,3 +93,19 @@ LeetCode-Solutions/
 ---
 
 <p align="center">Made with ❤️ by <a href="https://github.com/muskanji1007-lang">Muskan</a> • Keep Coding!</p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+<!---LeetCode Topics End-->
