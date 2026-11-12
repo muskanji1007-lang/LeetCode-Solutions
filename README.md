@@ -30,6 +30,7 @@ The main goals are:
 - 🔹 Bit Manipulation
 - 🔹 Prefix Sum
 - 🔹 Two Pointers & Sliding Window
+- 🔹 Sorting & Searching
 - 🔹 Strings
 
 ---
@@ -40,12 +41,11 @@ The main goals are:
 LeetCode-Solutions/
 │
 ├── 0001-two-sum/
-│   ├── 0001-two-sum.cpp
-│   └── README.md
-│
 ├── 0007-reverse-integer/
 ├── 0009-palindrome-number/
 ├── 0013-roman-to-integer/
+├── 0217-contains-duplicate/
+├── 1295-find-numbers-with-even-number-of-digits/
 ├── 1480-running-sum-of-1d-array/
 ├── 1486-xor-operation-in-an-array/
 ├── 1672-richest-customer-wealth/
@@ -56,61 +56,61 @@ LeetCode-Solutions/
 
 ---
 
-# 📂 LeetCode Topics
+<!---LeetCode Topics Start-->
+# LeetCode Topics
 
-## 📌 Array
-| Problem Name | Difficulty |
-| :--- | :---: |
-| [0001-two-sum](0001-two-sum) | Easy |
-| [1480-running-sum-of-1d-array](1480-running-sum-of-1d-array) | Easy |
-| [1672-richest-customer-wealth](1672-richest-customer-wealth) | Easy |
-| [1929-concatenation-of-array](1929-concatenation-of-array) | Easy |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/0217-contains-duplicate) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits) |
+| [1480-running-sum-of-1d-array](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/1672-richest-customer-wealth) |
+| [1929-concatenation-of-array](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/1929-concatenation-of-array) |
 
-## 📌 Math
-| Problem Name | Difficulty |
-| :--- | :---: |
-| [0007-reverse-integer](0007-reverse-integer) | Medium |
-| [0009-palindrome-number](0009-palindrome-number) | Easy |
-| [0013-roman-to-integer](0013-roman-to-integer) | Easy |
-| [1486-xor-operation-in-an-array](1486-xor-operation-in-an-array) | Easy |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/0013-roman-to-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits) |
+| [1486-xor-operation-in-an-array](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/1486-xor-operation-in-an-array) |
 
-## 📌 Hash Table
-| Problem Name | Difficulty |
-| :--- | :---: |
-| [0001-two-sum](0001-two-sum) | Easy |
-| [0013-roman-to-integer](0013-roman-to-integer) | Easy |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/0217-contains-duplicate) |
 
-## 📌 Bit Manipulation
-| Problem Name | Difficulty |
-| :--- | :---: |
-| [1486-xor-operation-in-an-array](1486-xor-operation-in-an-array) | Easy |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/0217-contains-duplicate) |
 
-## 📌 Prefix Sum
-| Problem Name | Difficulty |
-| :--- | :---: |
-| [1480-running-sum-of-1d-array](1480-running-sum-of-1d-array) | Easy |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/1486-xor-operation-in-an-array) |
+
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array) |
+
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/1672-richest-customer-wealth) |
+
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/1929-concatenation-of-array) |
+<!---LeetCode Topics End-->
 
 ---
 
 <p align="center">Made with ❤️ by <a href="https://github.com/muskanji1007-lang">Muskan</a> • Keep Coding!</p>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0217-contains-duplicate](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
-| [1295-find-numbers-with-even-number-of-digits](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
-## Hash Table
-|  |
-| ------- |
-| [0217-contains-duplicate](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
-## Sorting
-|  |
-| ------- |
-| [0217-contains-duplicate](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
-## Math
-|  |
-| ------- |
-| [1295-find-numbers-with-even-number-of-digits](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
-<!---LeetCode Topics End-->
