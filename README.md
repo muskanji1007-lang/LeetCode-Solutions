@@ -58,7 +58,6 @@ LeetCode-Solutions/
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-
 ## Array
 |  |
 | ------- |
@@ -68,7 +67,6 @@ LeetCode-Solutions/
 | [1480-running-sum-of-1d-array](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/1929-concatenation-of-array) |
-
 ## Math
 |  |
 | ------- |
@@ -77,34 +75,28 @@ LeetCode-Solutions/
 | [0013-roman-to-integer](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/0013-roman-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/1486-xor-operation-in-an-array) |
-
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/0217-contains-duplicate) |
-
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/0217-contains-duplicate) |
-
 ## Bit Manipulation
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/1486-xor-operation-in-an-array) |
-
 ## Prefix Sum
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array) |
-
 ## Matrix
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/1672-richest-customer-wealth) |
-
 ## Simulation
 |  |
 | ------- |
