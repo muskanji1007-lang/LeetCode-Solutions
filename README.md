@@ -62,6 +62,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits) |
@@ -105,6 +106,7 @@ LeetCode-Solutions/
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
 
