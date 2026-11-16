@@ -113,6 +113,7 @@ LeetCode-Solutions/
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits) |
@@ -147,6 +148,7 @@ LeetCode-Solutions/
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array) |
 ## Matrix
