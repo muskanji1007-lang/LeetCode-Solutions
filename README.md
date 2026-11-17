@@ -114,6 +114,7 @@ LeetCode-Solutions/
 | [0169-majority-element](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits) |
@@ -126,6 +127,7 @@ LeetCode-Solutions/
 | [0007-reverse-integer](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/1486-xor-operation-in-an-array) |
 ## Hash Table
@@ -135,15 +137,18 @@ LeetCode-Solutions/
 | [0013-roman-to-integer](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/1486-xor-operation-in-an-array) |
 ## Prefix Sum
 |  |
@@ -182,6 +187,10 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
 
 ---
