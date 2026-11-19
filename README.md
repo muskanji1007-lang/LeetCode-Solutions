@@ -107,6 +107,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -199,8 +200,13 @@ LeetCode-Solutions/
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0344-reverse-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
 
 ---
