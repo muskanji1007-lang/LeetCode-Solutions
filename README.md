@@ -72,6 +72,7 @@ LeetCode-Solutions/
 ├── 0013-roman-to-integer/
 ├── 0026-remove-duplicates-from-sorted-array/
 ├── 0217-contains-duplicate/
+├── 0242-valid-anagram/
 ├── 0283-move-zeroes/
 ├── 1295-find-numbers-with-even-number-of-digits/
 ├── 1480-running-sum-of-1d-array/
@@ -140,6 +141,7 @@ LeetCode-Solutions/
 | [0013-roman-to-integer](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -149,6 +151,7 @@ LeetCode-Solutions/
 | [0088-merge-sorted-array](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -205,6 +208,7 @@ LeetCode-Solutions/
 | [0014-longest-common-prefix](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
