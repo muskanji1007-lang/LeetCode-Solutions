@@ -6,10 +6,20 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-DSA%20Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  <a href="https://leetcode.com/u/muskangupta_10/"><img src="https://img.shields.io/badge/LeetCode-muskangupta__10-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" /></a>
   <a href="https://github.com/muskanji1007-lang"><img src="https://img.shields.io/badge/GitHub-muskanji1007--lang-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a>
   <img src="https://img.shields.io/badge/Language-C++20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Language C++" />
   <img src="https://img.shields.io/badge/Sync-LeetHub%20v2-orange?style=for-the-badge&logo=git&logoColor=white" alt="LeetHub Sync" />
+</p>
+
+---
+
+## 📊 Live LeetCode Performance
+
+<p align="center">
+  <a href="https://leetcode.com/u/muskangupta_10/">
+    <img src="https://leetcard.jacoblin.cool/muskangupta_10?theme=dark&font=source_code_pro&ext=heatmap" alt="Muskan's LeetCode Stats" />
+  </a>
 </p>
 
 ---
