@@ -142,6 +142,7 @@ LeetCode-Solutions/
 | [0007-reverse-integer](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/1486-xor-operation-in-an-array) |
@@ -152,6 +153,7 @@ LeetCode-Solutions/
 | [0013-roman-to-integer](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/main/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -192,6 +194,7 @@ LeetCode-Solutions/
 | [0027-remove-element](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0344-reverse-string) |
 ## Dynamic Programming
@@ -233,6 +236,10 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
 
 ---
