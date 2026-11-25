@@ -130,6 +130,7 @@ LeetCode-Solutions/
 | [0268-missing-number](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
@@ -159,6 +160,7 @@ LeetCode-Solutions/
 | [0242-valid-anagram](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
@@ -171,6 +173,7 @@ LeetCode-Solutions/
 | [0242-valid-anagram](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -201,6 +204,7 @@ LeetCode-Solutions/
 | [0283-move-zeroes](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -223,6 +227,7 @@ LeetCode-Solutions/
 | ------- |
 | [0268-missing-number](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
