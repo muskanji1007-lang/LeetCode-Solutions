@@ -161,6 +161,7 @@ LeetCode-Solutions/
 | [0268-missing-number](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
@@ -217,6 +218,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -237,6 +239,7 @@ LeetCode-Solutions/
 | [0125-valid-palindrome](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/muskanji1007-lang/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
